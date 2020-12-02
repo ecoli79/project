@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content from clear-branch
+=======
+content1
+>>>>>>> c0d5787... commit from cherry-branch
